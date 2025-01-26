@@ -13,6 +13,7 @@ public class Calculator {
     }
 
 
+    /// Вычисление результата из введеных пользователем данных
     public static double CalculatorOperation(){
         double Value = 0;
         switch (TypeOperation){
